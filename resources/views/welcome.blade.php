@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Welcome to jenkins demo
                 </div>
 
                 <div class="links">
